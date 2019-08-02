@@ -232,7 +232,7 @@ public class IPUtil {
     /**
      * 计算子网大小
      *
-     * @param netmask
+     * @param maskBit
      *            掩码位
      * @return
      */
